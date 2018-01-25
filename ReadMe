@@ -1,0 +1,30 @@
+Please note that this code is not representative of my current coding style. 
+
+Name:		Ethan Ford
+
+RedID:		XXXXXXXXX
+
+Semester:	Fall 2016
+
+Instructions:	
+      "a" moves the character left.
+		  "s" moves the character right.
+		  Space is jump.
+		  Left-Click where you want to shoot your block.
+		  Shooting a block will cost you 1/3 or your health.
+		  Note: if a spear hits your block, the block will disappear.
+		  Hint for level 3: going over one of the "bounce blocks" 
+    will activate a deactivaded bounce block (the one with 
+    the coin over it).
+
+Issues/Bugs:	The block will not always "stick" where you want it.
+		  If a horizontal spear hits you while you're on the ground, it 
+    wont knock you back.
+		  Sometimes you don't "stick" to a moving platform.
+		  Sometimes the bounce block will shoot you with an enormous amount 
+    of force. (I do not know why, I've spent hours trying to find 
+    out why)
+		  Same thing goes for the water blocks.
+		  Lastly, if you want the main menu to sit correctly in frame I 
+    suggest running it at 1920x1080
+		
